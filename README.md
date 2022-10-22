@@ -1,4 +1,4 @@
-# Shopeee
+# Web Store
 
 ![cover image](prev1.png)
 
