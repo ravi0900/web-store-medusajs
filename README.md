@@ -4,9 +4,9 @@
 
 ### Participant Id's
 
-[Github](github.com/ravi0900)
+[Github](https://github.com/ravi0900)
 
-[Twitter](twitter.com/Ravi0541)
+[Twitter](https://twitter.com/Ravi0541)
 
 [Discord](https://discordapp.com/users/ravi#8906)
 Discord : ravi#8906
