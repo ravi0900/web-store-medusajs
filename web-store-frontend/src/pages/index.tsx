@@ -9,7 +9,7 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <Head
-        title="Home"
+        title="Web Store"
         description="Shop all available models only at the ACME. Worldwide Shipping. Secure Payment."
       />
       <Hero />
